@@ -1,4 +1,4 @@
-# Java
+# Java Program
 
 I had to author extensive unit and integration tests to guarantee all significant features and possible edge cases are addressed to guarantee functionality. The best approaches to security include patching known vulnerabilities by updating libraries on a regular basis, validating all user input, and avoiding SQL injection with parameterized queries.
 
